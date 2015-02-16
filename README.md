@@ -11,7 +11,7 @@ This list of resources is for anyone learning English, but especially if you're 
 * [Penguin Readers available from Helsinki libraries](http://haku.helmet.fi/iii/encore/search/C__Spenguin%20readers__Orightresult__U?lang=fin&suite=cobalt) - A quick search for "Penguin Readers" turns up 280 books on helmet.fi.
 
 ## Funny
-If you share my sense of humour, you'll find these links funny. If not, you won't.
+Here is some stuff that makes me laugh. Perhaps you will too.
 * [Stephen Fry - The Letter](https://www.youtube.com/watch?v=SKdGwfMD8u8)
 * [A Bit of Fry & Laurie - Concerning Language](https://www.youtube.com/watch?v=MSyIhapMdI8)
 * [Friends - Joey Learning English](https://www.youtube.com/watch?v=kTQCbds8hsc)
