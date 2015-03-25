@@ -3,7 +3,7 @@
 This list of resources is for anyone learning English, but especially if you're learning English with me in Finland. I'll add more links every so often. If you have any suggestions of your own for this list, [let me know](http://www.rawreef.com/).
 
 ## All skills
-* [Breaking News English](http://www.breakingnewsenglish.com/) - Worksheets with a short article, reading comprehension, vocabulary exercises, discussion questions and a roleplay. Each worksheet comes with an audio recording of the article, so you can practise your pronunciation too. **#intermediate**
+* [Breaking News English](http://www.breakingnewsenglish.com/) - Worksheets with a short article, reading comprehension, vocabulary exercises, discussion questions and a roleplay. Each worksheet comes with an audio recording of the article, so you can practise your pronunciation too. **(#elementary) #intermediate**
 
 ## Pronunciation
 * [Phonetic sounds and symbols](http://learnenglish.britishcouncil.org/en/apps/sounds-right) - Find out which sounds are difficult for you. Then watch the videos below for those sounds. **#elementary #intermediate** 
