@@ -13,8 +13,15 @@ This list of resources is for anyone learning English, but especially if you're 
 * [Penguin Readers](http://www.penguinreaders.com/pr/students/index.html) - Books in easy English for beginners to upper-intermediate learners.
 * [Penguin Readers available from Helsinki libraries](http://haku.helmet.fi/iii/encore/search/C__Spenguin%20readers__Orightresult__U?lang=fin&suite=cobalt) - A quick search for "Penguin Readers" turns up 280 books on helmet.fi.
 
+## Writing
+* [On Writing - Stephen King](http://www.amazon.co.uk/gp/product/1444723251?*Version*=1&*entries*=0)
+* [Oxford Guide to Plain English - Martin Cutts](http://www.amazon.co.uk/gp/product/0199558507?*Version*=1&*entries*=0)
+
 ## Listening
 See **Penguin Readers** above. Many Penguin Readers come with an audio version of the book on CD, read by an actor at a slower speed than normal, so it's good for learners. 
+
+## Grammar
+* [English Grammar in Use - Raymond Murphy](http://www.amazon.co.uk/English-Grammar-Use-Answers-CD-ROM/dp/052118939X/)
 
 ## Funny
 Here is some stuff that makes me laugh. Perhaps you will too.
