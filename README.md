@@ -13,6 +13,7 @@ This list of resources is for anyone learning English, but especially if you're 
 * [Penguin Readers](http://www.penguinreaders.com/pr/students/index.html) - Books in easy English for beginners to upper-intermediate learners. **#elementary #intermediate**
 * [Penguin Readers available from Helsinki libraries](http://haku.helmet.fi/iii/encore/search/C__Spenguin%20readers__Orightresult__U?lang=fin&suite=cobalt) - A quick search for "Penguin Readers" turns up 280 books on helmet.fi. **#elementary #intermediate**
 * [Penguin Reader - Death on the Nile - Agatha Christie](http://www.amazon.co.uk/Death-Nile-Book-MP3-Pack/dp/1408276305/) **#intermediate**
+* [YLE news in English](http://yle.fi/uutiset/news/)
 
 ## Writing
 * [Oxford Guide to Plain English - Martin Cutts](http://www.amazon.co.uk/gp/product/0199558507?*Version*=1&*entries*=0) **#intermediate #advanced**
