@@ -23,6 +23,7 @@ This list of resources is for anyone learning English, but especially if you're 
 * See **Penguin Readers** above. Many Penguin Readers come with an audio version of the book on CD, read by an actor at a slower speed than normal, so it's good for learners. **#elementary #intermediate**
 * [TED talks](https://www.ted.com/talks) - Thousands of talks you can watch with or without subtitles. Here are a couple of my favourites: [For more wonder, rewild the world - George Monbiot](https://www.ted.com/talks/george_monbiot_for_more_wonder_rewild_the_world#t-60121) and [How to escape education's death valley - Ken Robinson](https://www.ted.com/talks/ken_robinson_how_to_escape_education_s_death_valley) **#intermediate #advanced**
 * [Five Minutes With... BBC](http://www.bbc.com/news/20066560) - Short five-minute interviews with various British and international celebrities and newsmakers. **#intermediate #advanced**
+* [The Trews - Russell Brand's YouTube Show](https://www.youtube.com/user/russellbrand/videos) - Commentary on British and international news. Russell Brand speaks fast, puts on many accents, and has a lot to say. Here's his [take on Top Gear and Jeremy Clarkson](https://www.youtube.com/watch?v=9Ii_Q_taNBI). **(#intermediate) #advanced**
 
 ## Grammar
 * [English Grammar in Use (Elementary) - Raymond Murphy](http://www.amazon.co.uk/Essential-Grammar-Use-Answers-Self-Study/dp/0521675804/) - great for self-study **#elementary**
