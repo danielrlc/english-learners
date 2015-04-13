@@ -4,7 +4,7 @@ This list of resources is for anyone learning English, but especially if you're 
 
 ## All skills
 * [Breaking News English](http://www.breakingnewsenglish.com/) - Worksheets with a short article, reading comprehension, vocabulary exercises, discussion questions and a roleplay. Each worksheet comes with an audio recording of the article, so you can practise your pronunciation too. **(#elementary) #intermediate**
-* [Daniel's Quizlet flashcard folders](https://quizlet.com/dowhatdan/folders) You don't need a Quizlet account to practise these flashcards, but if you create an account, you can then easily create your own flashcards, or copy my flashcard sets if you want to edit them or add translations and so on. Note that some of these folders contain flashcard sets which are password-protected. These are just for certain groups I'm teaching (you know who you are). #elementary #intermediate #advanced
+* [Daniel's Quizlet flashcard folders](https://quizlet.com/dowhatdan/folders) - You don't need a Quizlet account to practise these flashcards, but if you create an account, you can then easily create your own flashcards, or copy my flashcard sets if you want to edit them or add translations and so on. Note that some of these folders contain flashcard sets which are password-protected. These are just for certain groups I'm teaching (you know who you are). #elementary #intermediate #advanced
   * [Finnish-English sentences](https://quizlet.com/dowhatdan/folders/sentence-translations-english-finnish) **#elementary #intermediate**
   * [General language practice](https://quizlet.com/dowhatdan/folders/english-with-daniel-general) **#elementary #intermediate**
 
@@ -36,15 +36,17 @@ This list of resources is for anyone learning English, but especially if you're 
 
 ## TV shows
 I've picked out shows which are or have been available to view on Netflix. Of course you may have completely different tastes to me, but if you don't, this list may help you pick out some shows you might enjoy:
-### Drama
+
+#### Drama
 * Broadchurch
 * Mad Men
 * Bloodline
-### Comedy
+
+#### Comedy
 * Episodes
 * Friends
 * The Office
-* Puss in Boots
+* Puss in Boots (not just for kids - honest!)
 
 ## Funny
 I think this stuff's funny. But will you?
