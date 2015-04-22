@@ -4,7 +4,7 @@ This list of resources is for anyone learning English, but especially if you're 
 
 ## All skills
 * [Breaking News English](http://www.breakingnewsenglish.com/) - Worksheets with a short article, reading comprehension, vocabulary exercises, discussion questions and a roleplay. Each worksheet comes with an audio recording of the article, so you can practise your pronunciation too. **(#elementary) #intermediate**
-* [Daniel's Quizlet flashcard folders](https://quizlet.com/dowhatdan/folders) - You don't need a Quizlet account to practise these flashcards, but if you create an account, you can then easily create your own flashcards, or copy my flashcard sets if you want to edit them or add translations and so on. Note that some of these folders contain flashcard sets which are password-protected. These are just for certain groups I'm teaching (you know who you are). #elementary #intermediate #advanced
+* [Daniel's Quizlet flashcard folders](https://quizlet.com/englishwithdaniel/folders) - You don't need a Quizlet account to practise these flashcards, but if you create an account, you can then easily create your own flashcards, or copy my flashcard sets if you want to edit them or add translations and so on. Note that some of these folders contain flashcard sets which are password-protected. These are just for certain groups I'm teaching (you know who you are). #elementary #intermediate #advanced
   * [Finnish-English sentences](https://quizlet.com/dowhatdan/folders/sentence-translations-english-finnish) **#elementary #intermediate**
   * [General language practice](https://quizlet.com/dowhatdan/folders/english-with-daniel-general) **#elementary #intermediate**
 
