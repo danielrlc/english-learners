@@ -2,6 +2,9 @@
 
 This list of resources is for anyone learning English, but especially if you're learning English with me in Finland. I'll add more links every so often. If you have any suggestions of your own for this list, [let me know](http://www.rawreef.com/).
 
+## Monthly links
+* [List of links to learning material](https://pinboard.in/u:englishwithdaniel) - This list will be updated every month. Please bookmark the page ... and keep coming back to look at it! Material is grouped by level. See the tags underneath each link for details.
+
 ## All skills
 * [Breaking News English](http://www.breakingnewsenglish.com/) - Worksheets with a short article, reading comprehension, vocabulary exercises, discussion questions and a roleplay. Each worksheet comes with an audio recording of the article, so you can practise your pronunciation too. **(#elementary) #intermediate**
 * [Daniel's Quizlet flashcard folders](https://quizlet.com/englishwithdaniel/folders) - You don't need a Quizlet account to practise these flashcards, but if you create an account, you can then easily create your own flashcards, or copy my flashcard sets if you want to edit them or add translations and so on. Note that some of these folders contain flashcard sets which are password-protected. These are just for certain groups I'm teaching (you know who you are). #elementary #intermediate #advanced
