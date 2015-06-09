@@ -1,6 +1,6 @@
 # Resources for English Learners
 
-This list of resources is for anyone learning English, but especially if you're learning English with me in Finland. I'll add more links every so often. If you have any suggestions of your own for this list, [let me know](http://www.rawreef.com/).
+This list of resources is for anyone learning English, but especially if you're learning English with me in Finland. I'll add more links whenever I find other good stuff. If you have any suggestions of your own for this list, [let me know](http://www.rawreef.com/).
 
 ## Links to various stuff
 * [List of links to learning material](https://pinboard.in/u:englishwithdaniel) - This list will be updated every month. Please bookmark the page ... and keep coming back to look at it! Material is grouped by level. See the tags underneath each link for details.
