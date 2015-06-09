@@ -13,6 +13,9 @@ This list of resources is for anyone learning English, but especially if you're 
 ## All skills
 * [Breaking News English](http://www.breakingnewsenglish.com/) - Worksheets with a short article, reading comprehension, vocabulary exercises, discussion questions and a roleplay. Each worksheet comes with an audio recording of the article, so you can practise your pronunciation too. **(#elementary) #intermediate**
 
+## Speaking
+* [italki](http://www.italki.com/) - Learn with a teacher if you can afford it, or [find a language partner](http://www.italki.com/partners) to learn with.
+
 ## Pronunciation
 * [Phonetic sounds and symbols](http://learnenglish.britishcouncil.org/en/apps/sounds-right) - Find out which sounds are difficult for you. Then watch the videos below for those sounds. **#elementary #intermediate** 
 * [BBC Learning English - Pronunciation Tips videos](http://www.bbc.co.uk/worldservice/learningenglish/grammar/pron/sounds/) - Focus on sounds you're having trouble with. If you're a native Finnish speaker, these are likely to be: [ə](http://www.bbc.co.uk/worldservice/learningenglish/grammar/pron/sounds/vowel_short_5.shtml) [θ](http://www.bbc.co.uk/worldservice/learningenglish/grammar/pron/sounds/con_voiceless_6.shtml) and [ð](http://www.bbc.co.uk/worldservice/learningenglish/grammar/pron/sounds/con_voiced_6.shtml). **#elementary #intermediate**
