@@ -53,7 +53,7 @@ I've picked out shows which are or have been available to view on Netflix. Of co
 #### Comedy
 * Episodes
 * Friends
-* The Office
+* The Office (the British version, of course)
 * Puss in Boots (not just for kids - honest!)
 
 ## Funny
